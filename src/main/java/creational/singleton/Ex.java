@@ -1,4 +1,4 @@
-package singleton;
+package creational.singleton;
 
 import static java.util.Objects.nonNull;
 
